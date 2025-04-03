@@ -1,0 +1,16 @@
+/* App.css */
+
+/* Đảm bảo container chiếm 100% chiều rộng */
+.content {
+  width: calc(100% - 300px);  /* Khoảng cách 300px ở mỗi bên */
+  margin: 0 auto;  /* Căn giữa nội dung */
+  padding: 10px;  /* Thêm padding để nội dung không dính vào các cạnh */
+}
+
+/* Tạo hiệu ứng khi load lại */
+body {
+  
+  background-color: #f8f9fa; /* Màu nền nhẹ cho trang */
+}
+
+

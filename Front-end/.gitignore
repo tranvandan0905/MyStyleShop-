@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+
+# Thư mục build
+/build
+/dist
+
+# Các tệp log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Tệp cấu hình của IDE/editor
+.idea/
+.vscode/
+
+# Các tệp hệ điều hành
+.DS_Store
+Thumbs.db
+
+# Tệp môi trường
+.env
+
+# Thư mục lưu trữ kết quả kiểm thử (nếu dùng Jest chẳng hạn)
+coverage/
+
+# Thư mục lưu trữ video, hình ảnh kiểm thử (nếu dùng Cypress)
+cypress/screenshots
+cypress/videos
